@@ -391,6 +391,7 @@ jobs:
                   ${{ env.OUT_DIR }}/arch/${{ env.arch }}/boot/Image.gz
                   ${{ env.OUT_DIR }}/arch/${{ env.arch }}/boot/Image.gz-dtb
                   ${{ env.OUT_DIR }}/arch/${{ env.arch }}/boot/dts/mediatek/*.dtbo
+                  ${{ env.OUT_DIR }}/arch/${{ env.arch }}/boot/dts/mediatek/*.dtb
           generate_release_notes: true
 
       - name: Test Upload to Telegram
