@@ -409,14 +409,4 @@ jobs:
               -F chat_id="${{ secrets.TG_CHAT_ID }}" \
               -F parse_mode=html \
               -F disable_web_page_preview=true
-      - name: send telegram message on push
-        uses: appleboy/telegram-action@master
-        with:
-          to: ${{ secrets.TG_CHAT_ID }}
-          token: ${{ secrets.TG_BOT_TOKEN }}
-          message: |
-             Devices: ${{ env.KERNEL_DEVICE }}
-             KernelName: ${{ env.KERNEL_NAME }}
-             BuildDate: ${{ env.builddate }}
-          document: ${{ env.WORKSPACE }}/${{ env.KERNEL_DEVICE }}-${{ env.KERNEL_NAME }}_${{ env.builddate }}.zip
       
