@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": { 
-      "name": "RMX3191-ZENIUM-C25",
+      "name": "even-mykernel",
       "repo": "https://github.com/kolak-devs/zenium_realme_even.git",
-      "branch": "rui4-clean",
+      "branch": "rui4-susfs",
       "device": "RMX3191",
       "defconfig": "even_defconfig",
       "kbuilduser": "ISMASRULL",
@@ -15,7 +15,7 @@
     "ksurepo": "https://github.com/ReSukiSU/ReSukiSU.git",
     "ksubranch": "main",
     "ksusetup": "https://raw.githubusercontent.com/ReSukiSU/ReSukiSU/main/kernel/setup.sh",
-    "withKernelSU": true
+    "withKernelSU": false
     },
     "withKPM": false,
     "toolchains": [
