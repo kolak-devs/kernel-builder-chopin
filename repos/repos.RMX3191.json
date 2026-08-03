@@ -12,9 +12,9 @@
 
     },
     "KsuSource": {
-    "ksurepo": "https://github.com/KernelSU-Next/KernelSU-Next.git",
-    "ksubranch": "dev",
-    "ksusetup": "https://raw.githubusercontent.com/KernelSU-Next/KernelSU-Next/dev/kernel/setup.sh",
+    "ksurepo": "https://github.com/rsuntk/KernelSU.git",
+    "ksubranch": "susfs-rksu-master",
+    "ksusetup": "https://raw.githubusercontent.com/rsuntk/KernelSU/susfs-rksu-master/kernel/setup.sh",
     "withKernelSU": true
     },
     "withKPM": false,
