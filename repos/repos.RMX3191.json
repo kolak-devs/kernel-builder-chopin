@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": { 
-      "name": "even-mykernel",
+      "name": "even-mykernel-nosusfs",
       "repo": "https://github.com/kolak-devs/zenium_realme_even.git",
-      "branch": "rui4-susfs",
+      "branch": "rui4-clean",
       "device": "RMX3191",
       "defconfig": "even_defconfig",
       "kbuilduser": "ISMASRULL",
@@ -15,7 +15,7 @@
     "ksurepo": "https://github.com/ReSukiSU/ReSukiSU.git",
     "ksubranch": "main",
     "ksusetup": "https://raw.githubusercontent.com/ReSukiSU/ReSukiSU/main/kernel/setup.sh",
-    "withKernelSU": false
+    "withKernelSU": true
     },
     "withKPM": false,
     "toolchains": [
