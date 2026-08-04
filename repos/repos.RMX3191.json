@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": { 
-      "name": "even-mykernel-nosusfs",
+      "name": "even-mykernel-susfs",
       "repo": "https://github.com/kolak-devs/zenium_realme_even.git",
-      "branch": "rui4-clean",
-      "device": "RMX3191",
+      "branch": "rui4-susfs",
+      "device": "even",
       "defconfig": "even_defconfig",
       "kbuilduser": "ISMASRULL",
       "kbuildhost": "TridentnotDeath",
