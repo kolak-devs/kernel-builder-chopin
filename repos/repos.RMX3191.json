@@ -20,7 +20,8 @@
     "withKPM": false,
     "toolchains": [
       {
-        "url": "https://github.com/ZyCromerZ/Clang/releases/download/15.0.7-20260801-release/Clang-15.0.7-20260801.tar.gz",
+        "repo": "https://github.com/kdrag0n/proton-clang.git",
+        "branch": "master",
         "name": "mylittle-clang",
         "binPath": ["bin"]
       }
