@@ -52,7 +52,7 @@
       "repo": "https://github.com/cumaRull/AnyKernel3",
       "branch": "master"
     }
-  }
+  },
   {
     "kernelSource": { 
       "name": "kernel-v5.10-test",
