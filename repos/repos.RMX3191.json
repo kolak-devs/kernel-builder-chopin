@@ -52,6 +52,8 @@
       "repo": "https://github.com/cumaRull/AnyKernel3",
       "branch": "master"
     }
+  }
+  {
     "kernelSource": { 
       "name": "kernel-v5.10-test",
       "repo": "https://github.com/realme-kernel-opensource/realme_c55-AndroidU-kernel-source.git",
