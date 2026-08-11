@@ -56,10 +56,10 @@
   {
     "kernelSource": { 
       "name": "kernel-v5.10-test",
-      "repo": "https://github.com/realme-kernel-opensource/realme_c55-AndroidU-kernel-source.git",
+      "repo": "https://github.com/realme-kernel-opensource/realme_c55-AndroidV-kernel-source.git",
       "branch": "master",
       "device": "even",
-      "defconfig": "k68v1_64_k419_defconfig",
+      "defconfig": "mgk_64_k66_defconfig",
       "kbuilduser": "ISMASRULL",
       "kbuildhost": "TridentnotDeath",
       "kbuildtime": "Asia/Jakarta"
