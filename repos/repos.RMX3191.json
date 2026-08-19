@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": { 
-      "name": "even-mykernel-susfs-droidspaces",
+      "name": "even-mykernel-susfs-droidspaces-cip135",
       "repo": "https://github.com/kolak-devs/zenium_realme_even.git",
       "branch": "rui4-susfs",
       "device": "even",
