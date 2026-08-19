@@ -20,8 +20,8 @@
     "withKPM": false,
     "toolchains": [
       {
-        "repo": "https://gitlab.com/clangsantoni/zyc_clang.git",
-        "branch": "14",
+        "repo": "https://github.com/kdrag0n/proton-clang.git",
+        "branch": "master",
         "name": "mylittle-clang",
         "binPath": ["bin"]
       }
