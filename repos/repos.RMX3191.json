@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": { 
-      "name": "even-mykernel-susfs-droidspaces-cip135",
-      "repo": "https://github.com/kolak-devs/zenium_realme_even.git",
-      "branch": "rui4-susfs",
+      "name": "even-mykernel-susfs-RUI2",
+      "repo": "https://github.com/kolak-devs/kernel_realme_RMX3191.git",
+      "branch": "OSS-RUI2",
       "device": "even",
       "defconfig": "even_defconfig",
       "kbuilduser": "ISMASRULL",
@@ -15,13 +15,13 @@
     "ksurepo": "https://github.com/ReSukiSU/ReSukiSU.git",
     "ksubranch": "main",
     "ksusetup": "https://raw.githubusercontent.com/ReSukiSU/ReSukiSU/main/kernel/setup.sh",
-    "withKernelSU": true
+    "withKernelSU": false
     },
     "withKPM": false,
     "toolchains": [
       {
         "repo": "https://gitlab.com/clangsantoni/zyc_clang.git",
-        "branch": "18",
+        "branch": "14",
         "name": "mylittle-clang",
         "binPath": ["bin"]
       }
