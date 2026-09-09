@@ -15,7 +15,7 @@
     "ksurepo": "https://github.com/ReSukiSU/ReSukiSU.git",
     "ksubranch": "main",
     "ksusetup": "https://raw.githubusercontent.com/ReSukiSU/ReSukiSU/main/kernel/setup.sh",
-    "withKernelSU": false
+    "withKernelSU": true
     },
     "withKPM": false,
     "toolchains": [
