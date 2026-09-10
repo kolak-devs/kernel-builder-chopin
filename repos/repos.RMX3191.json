@@ -12,9 +12,9 @@
 
     },
     "KsuSource": {
-    "ksurepo": "https://github.com/WildKernels/KernelSU-Next.git",
-    "ksubranch": "dev",
-    "ksusetup": "https://raw.githubusercontent.com/WildKernels/KernelSU-Next/dev/kernel/setup.sh",
+    "ksurepo": "https://github.com/SukiSU-Ultra/SukiSU-Ultra.git",
+    "ksubranch": "main",
+    "ksusetup": "https://raw.githubusercontent.com/SukiSU-Ultra/SukiSU-Ultra/main/kernel/setup.sh",
     "withKernelSU": true
     },
     "withKPM": false,
